@@ -1,6 +1,6 @@
 # Музыка больших городов (Яндекс.Музыка)
 
-[ipynb](https://github.com/Lodiur93/yandex_praktikum_projects/blob/main/Проект%20%231.%20Музыка%20больших%20городов/project_1.ipynb) [HTML](https://github.com/Lodiur93/yandex_praktikum_projects/blob/main/Проект%20%231.%20Музыка%20больших%20городов/project_1.html) [PDF](https://github.com/Lodiur93/yandex_praktikum_projects/blob/main/Проект%20%231.%20Музыка%20больших%20городов/project_1.pdf)  
+Просмотр проекта в разных форматах [ipynb](https://github.com/Lodiur93/yandex_praktikum_projects/blob/main/Проект%20%231.%20Музыка%20больших%20городов/project_1.ipynb) [HTML](https://github.com/Lodiur93/yandex_praktikum_projects/blob/main/Проект%20%231.%20Музыка%20больших%20городов/project_1.html) 
 
 ## Описание проекта
 
