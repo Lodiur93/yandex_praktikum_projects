@@ -1,6 +1,6 @@
 # Исследование надёжности заёмщиков
 
-Просмотр проекта в разных форматах: [ipynb](https://github.com/Lodiur93/yandex_praktikum_projects/blob/main/Проект%20%231.%20Музыка%20больших%20городов/project_1.ipynb) [HTML](https://github.com/Lodiur93/yandex_praktikum_projects/blob/main/Проект%20%231.%20Музыка%20больших%20городов/project_1.html) 
+Просмотр проекта в разных форматах: [ipynb](https://github.com/Lodiur93/yandex_praktikum_projects/blob/main/Проект%20%232.%20Исследование%20надёжности%20заёмщиков/project_2.ipynb) [HTML](https://github.com/Lodiur93/yandex_praktikum_projects/blob/main/Проект%20%232.%20Исследование%20надёжности%20заёмщиков/project_2.html) 
 
 ## Описание проекта
 
